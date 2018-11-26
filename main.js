@@ -1,2 +1,2 @@
 var nume = 50;
-var truth = "Hello World";
+var truth = "Hello Flatter Earth";
